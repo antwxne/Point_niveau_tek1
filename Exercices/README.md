@@ -17,3 +17,9 @@ Durée: 30 minutes
 ## my_strcmp.c
 
 Écrire une fonction nommée `my_strcmp` qui prend 2 chaines de charactères en parametre et qui renvoie 0 si les 2 sont identiques, sinon 1 
+
+# Tests
+
+``` sh
+gcc [ my_strlen.c | my_putstr.c | my_strcpy.c | my_strcmp.c ]
+```
